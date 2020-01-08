@@ -1,7 +1,7 @@
 package io.flutter.plugins;
 
 import io.flutter.plugin.common.PluginRegistry;
-import com.github.adee42.keyboardvisibility.KeyboardVisibilityPlugin;
+import com.github.singlaKaran.keyboardvisibility.FlutterKeyboardVisibilityPlugin;
 
 /**
  * Generated file. Do not edit.
@@ -11,7 +11,7 @@ public final class GeneratedPluginRegistrant {
     if (alreadyRegisteredWith(registry)) {
       return;
     }
-    KeyboardVisibilityPlugin.registerWith(registry.registrarFor("com.github.adee42.keyboardvisibility.KeyboardVisibilityPlugin"));
+    FlutterKeyboardVisibilityPlugin.registerWith(registry.registrarFor("com.github.singlaKaran.keyboardvisibility.FlutterKeyboardVisibilityPlugin"));
   }
 
   private static boolean alreadyRegisteredWith(PluginRegistry registry) {

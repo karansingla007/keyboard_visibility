@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 Flutter keyboard visibility project.
                        DESC
-  s.homepage         = 'http://github.com/adee42/keyboard_visibility'
+  s.homepage         = 'http://github.com/singlaKaran/keyboard_visibility'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { :path => '.' }

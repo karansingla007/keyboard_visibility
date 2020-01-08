@@ -4,7 +4,7 @@ ADDED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/and
 INJECTED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/android/src/main/AndroidManifest.xml:1:1-3:12
 INJECTED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/android/src/main/AndroidManifest.xml:1:1-3:12
 	package
-		ADDED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/android/src/main/AndroidManifest.xml:2:3-49
+		ADDED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/android/src/main/AndroidManifest.xml:2:3-54
 		INJECTED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/android/src/main/AndroidManifest.xml
 		INJECTED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/android/src/main/AndroidManifest.xml
 	xmlns:android

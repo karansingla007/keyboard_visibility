@@ -3,12 +3,12 @@
 //
 
 #import "GeneratedPluginRegistrant.h"
-#import <keyboard_visibility/KeyboardVisibilityPlugin.h>
+#import <keyboard_visibility/FlutterKeyboardVisibilityPlugin.h>
 
 @implementation GeneratedPluginRegistrant
 
 + (void)registerWithRegistry:(NSObject<FlutterPluginRegistry>*)registry {
-  [FLTKeyboardVisibilityPlugin registerWithRegistrar:[registry registrarForPlugin:@"FLTKeyboardVisibilityPlugin"]];
+  [FLTFlutterKeyboardVisibilityPlugin registerWithRegistrar:[registry registrarForPlugin:@"FLTFlutterKeyboardVisibilityPlugin"]];
 }
 
 @end

@@ -1,1 +1,1 @@
-com.github.adee42.keyboardvisibility
+com.github.singlaKaran.keyboardvisibility

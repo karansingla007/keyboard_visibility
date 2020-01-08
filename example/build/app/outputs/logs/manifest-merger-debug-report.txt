@@ -9,7 +9,7 @@ INJECTED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/
 INJECTED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
 INJECTED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
 	package
-		ADDED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/example/android/app/src/main/AndroidManifest.xml:2:5-58
+		ADDED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/example/android/app/src/main/AndroidManifest.xml:2:5-63
 		INJECTED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/example/android/app/src/main/AndroidManifest.xml
 		INJECTED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/example/android/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -34,7 +34,7 @@ ADDED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/exa
 		ADDED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/example/android/app/src/main/AndroidManifest.xml:18:9-43
 	android:name
 		ADDED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/example/android/app/src/main/AndroidManifest.xml:16:9-57
-activity#com.github.adee42.keyboardvisibilityexample.MainActivity
+activity#com.github.singlaKaran.keyboardvisibilityexample.MainActivity
 ADDED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/example/android/app/src/main/AndroidManifest.xml:19:9-37:20
 	android:launchMode
 		ADDED from /media/karan/DATA/flutter folk/flutter_keyboard_visibility-master/example/android/app/src/main/AndroidManifest.xml:21:13-43

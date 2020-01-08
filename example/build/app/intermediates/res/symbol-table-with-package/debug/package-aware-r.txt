@@ -1,4 +1,4 @@
-com.github.adee42.keyboardvisibilityexample
+com.github.singlaKaran.keyboardvisibilityexample
 drawable launch_background
 mipmap ic_launcher
 style LaunchTheme

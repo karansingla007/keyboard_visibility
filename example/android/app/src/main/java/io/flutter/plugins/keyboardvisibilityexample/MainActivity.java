@@ -1,4 +1,4 @@
-package com.github.adee42.keyboardvisibilityexample;
+package com.github.singlaKaran.keyboardvisibilityexample;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

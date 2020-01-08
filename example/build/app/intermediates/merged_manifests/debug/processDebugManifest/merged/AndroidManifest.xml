@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.adee42.keyboardvisibilityexample"
+    package="com.github.singlaKaran.keyboardvisibilityexample"
     android:versionCode="1"
     android:versionName="1.0.0" >
 
@@ -27,7 +27,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="keyboard_visibility_example" >
         <activity
-            android:name="com.github.adee42.keyboardvisibilityexample.MainActivity"
+            android:name="com.github.singlaKaran.keyboardvisibilityexample.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
             android:hardwareAccelerated="true"
             android:launchMode="singleTop"
